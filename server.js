@@ -18,3 +18,4 @@ cmds.on("message", function(msg){
 
 cmds.send("get_video_mode");
 cmds.send("get_cutoff");
+
